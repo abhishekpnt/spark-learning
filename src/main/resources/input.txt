@@ -1,0 +1,3 @@
+Hello World
+This is a Spark Scala example
+Reading a text file in Spark
